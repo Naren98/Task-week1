@@ -1,2 +1,4 @@
-# Task-week1
-Hello, this is 1st week's task!
+# data-science-bootcamp
+
+
+Data Science Bootcamp Week 1
